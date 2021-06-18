@@ -2,7 +2,7 @@
 //! set of generators for a rangeproof.
 
 #![allow(non_snake_case)]
-#![deny(missing_docs)]
+//#![deny(missing_docs)]
 
 use curve25519_dalek::constants::RISTRETTO_BASEPOINT_COMPRESSED;
 use curve25519_dalek::constants::RISTRETTO_BASEPOINT_POINT;

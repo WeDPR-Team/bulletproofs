@@ -1,5 +1,5 @@
 #![allow(non_snake_case)]
-#![doc(include = "../docs/inner-product-protocol.md")]
+//#![doc(include = "../docs/inner-product-protocol.md")]
 
 use std::borrow::Borrow;
 use std::iter;

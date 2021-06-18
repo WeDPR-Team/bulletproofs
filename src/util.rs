@@ -1,4 +1,4 @@
-#![deny(missing_docs)]
+//#![deny(missing_docs)]
 #![allow(non_snake_case)]
 
 use clear_on_drop::clear::Clear;
