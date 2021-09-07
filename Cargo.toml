@@ -1,6 +1,6 @@
 [package]
-name = "bulletproofs"
-version = "1.0.4"
+name = "wedpr_l_bulletproofs"
+version = "1.0.5"
 authors = ["Cathie Yun <cathieyun@gmail.com>", 
            "Henry de Valence <hdevalence@hdevalence.ca>",
            "Oleg Andreev <oleganza@gmail.com>"]
